@@ -5,10 +5,10 @@ http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
 #EXTINF:-1 tvg-id="MBC2" tvg-name="MBC2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies",MBC2 HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbc2/05.m3u8
-#EXTINF:-1,AR: MBC 5" group-title="Movies",MBC 5
-http://xmobis.com:8100/live/035c536f8d/035c536fcc/1013.ts
 #EXTINF:-1,MBC Action" group-title="Movies",MBC Action
-http://xmobis.com:8100/live/035c536f8d/035c536fcc/938.ts
+http://p.dtv.sx:80/live/166454/166454/12433.ts
+#EXTINF:-1,MBC Action" group-title="Movies",MBC Action
+http://p.dtv.sx:80/live/166454/166454/11303.ts
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies",MBC Max HD
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
 #EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="MBC Bollywood" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies",MBC Bollywood
@@ -23,6 +23,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 #EXTINF:-1 tvg-id="|OSN| Syfy HD" tvg-name="|OSN| Syfy HD" tvg-country="" tvg-url="" group-title="Movies",|OSN| Syfy HD
 http://xmobis.com:8100/live/035c536f8d/035c536fcc/998.ts
+#EXTINF:-1,AR: OSN Movies Action HD
+http://p.dtv.sx:80/live/166454/166454/17864.ts
 #EXTINF:-1,MBC FX" group-title="Movies",MBC FX
 http://xmobis.com:8100/live/035c536f8d/035c536fcc/947.ts
 #EXTINF:-1,MBC Fox Movies Family" group-title="Movies",MBC Fox
@@ -32,9 +34,9 @@ http://xmobis.com:8100/live/035c536f8d/035c536fcc/944.ts
 #EXTINF:-1,1BeIN MoviesHD 2" group-title="Movies",1BeIN Movies HD 2
 http://xmobis.com:8100/live/035c536f8d/035c536fcc/1027.ts
 #EXTINF:-1,AlArabiya" " tvg-logo="https://i.imgur.com/VNtbK3l.png"group-title="News",AlArabiya
-http://cdn99.live:8080/marc1/3009ma/70939
+http://p.dtv.sx:80/live/166454/166454/10703.ts
 #EXTINF:-1,ALHadath" " tvg-logo=https://i.imgur.com/1nSgfU0.png"group-title="News",ALHadath
-http://cdn99.live:8080/marc1/3009ma/71033
+http://p.dtv.sx:80/live/166454/166454/10702.ts
 #EXTINF:-1 tvg-id="Al Sharqiya News" tvg-name="Al Sharqiya News" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Araby" tvg-language="Al Araby" tvg-logo="https://i.imgur.com/LNI1HNi.png" tvg-country="UK" tvg-url="" group-title="News",Al Araby
@@ -57,7 +59,7 @@ http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 https://player-api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8
 #EXTINF:-1 tvg-id="Al-Alam" tvg-name="Al-Alam" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="News",Al-Alam
 https://live2.alalamtv.net/live/Alalam/index.m3u8
-#EXTINF:-1 tvg-id="Dijlah" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/images/dlogo.png" tvg-country="IQ" tvg-url="" group-title="General",Dijlah
+#EXTINF:-1 tvg-id="Dijlah" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/images/dlogo.png" tvg-country="IQ" tvg-url="" group-title="News",Dijlah
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="France 24 Arabic" tvg-name="France 24 Arabic" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",France 24 Arabic
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
